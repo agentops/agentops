@@ -4,7 +4,7 @@
 - Designing and maintaining highly reliable, secure and scalable solutions
 - Avid lover and active basketball player.
 
-Skilled in...
+# Skilled in...
 - Pyhton
 - ChatGPT
 - Kubernetes(Docker and rkt runtimes)
